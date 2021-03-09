@@ -1,5 +1,5 @@
 # hello-world
-it's about my vb.net coding that makes me crazy because it is not working (no syntax problem, its just logical and im new on vb.net, help me out improve vb.net)
+It's about my vb.net coding which is freaking me out for 2 hours that it is not working. (no syntax problem, its just logical prob and am new on vb.net, help me out improve vb.net)
 Public Class Form1
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
